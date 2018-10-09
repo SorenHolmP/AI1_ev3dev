@@ -61,7 +61,6 @@ diff = val1 - val2
 mA.duty_cycle_sp = diff
 mB.duty_cycle_sp = -BASE_SPEED #Negative because west bound
 
-
 #while True:
 
 
